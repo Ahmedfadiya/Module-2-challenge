@@ -1,0 +1,50 @@
+  239  uwbootcampfintech/
+  240  ls
+  241  pwd
+  242  ls
+  243  ls
+  244  cd desktop
+  245  ls
+  246  git checkout
+  247  git checkout Module-2-Challenge
+  248  git checkout Ahmedfadiya/Module-2-challenge
+  249  gh repo clone Ahmedfadiya/Module-2-challenge
+  250  git repo clone Ahmedfadiya/Module-2-challenge
+  251  git clone Ahmedfadiya/Module-2-challenge
+  252  git clone Ahmedfadiya/Module-2-challenge
+  253  git clone https://github.com/Ahmedfadiya/Module-2-challenge.git
+  254  pwd
+  255  cd C:\Users\ahmed\desktop\Challenge_Folder\new
+  256  pwd
+  257  cd desktop/Challenge_Folder/new/
+  258  git clone https://github.com/Ahmedfadiya/Module-2-challenge.git
+  259  git stats
+  260  git status
+  261  git show
+  262  pwd
+  263  cd Module-2-challenge/
+  264  git status
+  265  cd loan_qualifier_app/
+  266  git status
+  267  git add app.py
+  268  git add .
+  269  git status
+  270  git add ,
+  271  cd ..
+  272  ls
+  273  pwd
+  274  git add .
+  275  git status
+  276  git add -A
+  277  git show
+  278  git status
+  279  git commit -m "All the changes for the program to generate qualifying loans"
+  280  git push
+  281  history 50
+  282  history 50 > terminalhistory.txt
+  283  pwd
+  284  pwd
+  285  history 50 > ./terminalhistory.txt
+  286  ls
+  287  history 50
+  288  history 50 > terminalhistory.txt
