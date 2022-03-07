@@ -1,33 +1,47 @@
 # Project Title
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
-
+It is a software run to help the user to choose the qualifying loans based on the provided criteria. The qualified loans will be generated in a new sv file.
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+Python with Fire and Questionary are being used.
 
 ---
 
 ## Installation Guide
-
-In this section, you should include detailed installation notes containing code blocks and screenshots.
-
----
+- Install Python (Refer python installation guide), Fire and questionary
+- checkout git repository (https://github.com/Ahmedfadiya/Module-2-challenge.git)
+- navigate to the folder
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
 
+1. Navigate to the current folder in terminal 
+2. run Python app.py
+3. provide the file path to the rate sheet csv file which contains list of banks, with the min loan requirement data.
+4. Input the value 
+5. provide file name to a new csv output file.
+6. following is the sample command that was run.
 ---
+PS C:\Users\ahmed\desktop\Challenge_Folder\Module 2 challenge\Starter_Code\loan_qualifier_app> python app.py
+- Enter a file path to a rate-sheet (.csv): ./data/daily_rate_sheet.csv
+- What's your credit score? 750
+- What's your current amount of monthly debt? 3000
+- What's your total monthly income? 20000
+- What's your desired loan amount? 80000
+- What's your home value? 350000
+The monthly debt to income ratio is 0.15
+The loan to value ratio is 0.23.
+Found 15 qualifying loans
+- Enter output file path ./approved_loan_list.csv
+./approved_loan_list.csv
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
-
+Fadiya Ahmed | ahmedfadiya@hotmail.com
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+GPL License
