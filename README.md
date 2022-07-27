@@ -1,2 +1,2 @@
-# Module-2-challenge
+# Financial Application with Python
 Module 2 Challenge
